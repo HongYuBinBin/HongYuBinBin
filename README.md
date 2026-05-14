@@ -1,5 +1,7 @@
 ## 안녕하세요 꾸준히 성장하는 개발자 홍유빈입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongYuBinBin)](https://hits.seeyoufarm.com)
+
+
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=HongYuBinBin&show_icons=true&hide_border=true)](https://github.com/HongYuBinBin)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongYuBinBin&layout=compact)](https://github.com/HongYuBinBin)
+[![github stats](https://github-readme-stats.vercel.app/api?username=HongYuBinBin&show_icons=true&hide_border=true&cache_seconds=86400)](https://github.com/HongYuBinBin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongYuBinBin&layout=compact&cache_seconds=86400)](https://github.com/HongYuBinBin)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
